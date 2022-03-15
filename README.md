@@ -6,18 +6,17 @@
   <li> 🔥 Desenvolvedor Web FullStack Junior</li>
   <li> 🎮 Entusiasta em Game Development</li>
 </ul>
-
-  
+<br>
 <div>
+  <h2>⚡ Github Stats</h2>
   <a href="https://github.com/Saulo-Felipe" align="center">
     <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&theme=github_dark" />
   </a>
   <a href="https://github.com/Saulo-Felipe" align="center">
     <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark" />
   </a>
-
 <div>
-
+<br>
 <div>
   <h2>🛠 Stacks</h2>
   <table>
@@ -48,8 +47,8 @@
     </tr>
   </table>
 </div>
-    
-<h2>📜 Veja Meus Repositórios<h2>
+<br>
+<h2>📜 Veja os meus melhores projetos<h2>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=eCommerce-ReactJS-NodeJS&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Futebol-One-Page&theme=github_dark" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=game-war&theme=github_dark" />

@@ -10,10 +10,10 @@
   
 <div>
   <a href="https://github.com/Saulo-Felipe" align="center">
-    <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&theme=github_dark" />
+    <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&theme=github_dark" />
   </a>
   <a href="https://github.com/Saulo-Felipe" align="center">
-    <img height="200px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark" />
+    <img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark" />
   </a>
 
 <div>

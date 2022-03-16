@@ -1,18 +1,17 @@
-<h1> -> Saulo Felipe 🧑‍💻</h1>
+<h1> 🧑‍💻 Saulo Felipe</h1>
 
+<h4>Sobre </h4>
+<ul>
+  <li> 🤓 Estudante de Ciência da Computação</li>
+  <li> 🔥 Desenvolvedor Web FullStack Junior</li>
+  <li> 🎮 Entusiasta em Game Development</li>
+</ul>
 <div>
   <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/saulo.felipe1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/saulo-felipe-083657232/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://twitter.com/SauloFe05649154"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
 </div>
-
-<div>Sobre </div>
-<ul>
-  <li> 🤓 Estudante de Ciência da Computação</li>
-  <li> 🔥 Desenvolvedor Web FullStack Junior</li>
-  <li> 🎮 Entusiasta em Game Development</li>
-</ul>
 <br>
 <div>
   <h2>⚡ Github Stats</h2> 
@@ -55,12 +54,11 @@
   </table>
 </div>
 <br>
-<h2>📜 Veja os meus melhores projetos<h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=eCommerce-ReactJS-NodeJS&theme=github_dark&bg_color=13171c&border_color=37383b" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Futebol-One-Page&theme=github_dark&bg_color=13171c&border_color=37383b" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=game-war&theme=github_dark&bg_color=13171c&border_color=37383b" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Sistema-de-Gestao&theme=github_dark&bg_color=13171c&border_color=37383b" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Jogo-em-python_Faculdade&theme=github_dark&bg_color=13171c&border_color=37383b" />
-
+<h2>📜 Veja os alguns dos meus projetos<h2>
+<a href="https://github.com/Saulo-Felipe/eCommerce-ReactJS-NodeJS"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=eCommerce-ReactJS-NodeJS&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Futebol-One-Page&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=game-war&theme=github_dark&bg_color=13171c&border_color=37383b" /></a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Sistema-de-Gestao&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Jogo-em-python_Faculdade&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
   
 

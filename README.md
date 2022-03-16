@@ -55,10 +55,11 @@
 </div>
 <br>
 <h2>📜 Veja os alguns dos meus projetos<h2>
-<a href="https://github.com/Saulo-Felipe/eCommerce-ReactJS-NodeJS"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=eCommerce-ReactJS-NodeJS&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
-<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Futebol-One-Page&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
-<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=game-war&theme=github_dark&bg_color=13171c&border_color=37383b" /></a>
-<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Sistema-de-Gestao&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
-<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Jogo-em-python_Faculdade&theme=github_dark&bg_color=13171c&border_color=37383b" /> </a>
+  
+<a href="https://github.com/Saulo-Felipe/eCommerce-ReactJS-NodeJS"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=eCommerce-ReactJS-NodeJS&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Futebol-One-Page&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=game-war&theme=github_dark&bg_color=13171c&border_color=36373b" /></a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Sistema-de-Gestao&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
+<a href=""> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Jogo-em-python_Faculdade&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
   
 

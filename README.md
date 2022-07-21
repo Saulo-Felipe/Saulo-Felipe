@@ -17,7 +17,7 @@
   <a href="https://github.com/Saulo-Felipe" align="center">
     <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=6"/>
   </a>
-<div> 
+<div>
 <br>
 <div>
   <h2>🛠 Stacks</h2>

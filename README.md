@@ -17,19 +17,19 @@
   <a href="https://github.com/Saulo-Felipe" align="center">
     <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=6"/>
   </a>
-<div>
+<div> 
 <br>
 <div>
   <h2>🛠 Stacks</h2>
   <table>
-    <tr>
+    <tr> 
         <td>👑 Principais</td>
         <td>📚 Estudando...</td>
         <td>🤖 Outras</td>
         <td>📈 Pretendo estudar</td>
     </tr>
     <tr>
-      <td>
+      <td> 
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
@@ -46,7 +46,7 @@
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
-      </td>
+      </td> 
       <td>
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />

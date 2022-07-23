@@ -56,7 +56,8 @@
 </div>
 <br>
 <h2>📜 Veja alguns dos meus projetos 😁<h2>
-  
+
+<a href="https://github.com/Saulo-Felipe/rede-social"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=rede-social&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
 <a href="https://github.com/Saulo-Felipe/eCommerce-ReactJS-NodeJS"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=eCommerce-ReactJS-NodeJS&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
 <a href="https://github.com/Saulo-Felipe/Futebol-One-Page"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Futebol-One-Page&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>
 <a href="https://github.com/Saulo-Felipe/Sistema-de-Gestao"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saulo-Felipe&repo=Sistema-de-Gestao&theme=github_dark&bg_color=13171c&border_color=36373b" /> </a>

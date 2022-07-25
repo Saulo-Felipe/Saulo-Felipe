@@ -3,7 +3,7 @@
 <h4>Sobre </h4>
 
 <ul>
-  <li> 🤓 Estudante de Ciência da Computação</li>
+  <li> 🤓 Estudante de Ciência da Computação (UEPB)</li>
   <li> 🔥 Programador Web FullStack</li>
 </ul>
 

@@ -19,7 +19,7 @@
   </a>
 <div>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saulo-felipe&label=Profile%20views&color=ce9927&style=flat" alt="saulo-felipe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saulo-felipe&label=Profile%20views&color=blue&style=flat" alt="saulo-felipe" /> </p>
 
 <div>
   <h2>🛠 Stacks</h2>

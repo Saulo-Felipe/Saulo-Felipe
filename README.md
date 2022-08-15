@@ -42,6 +42,7 @@
       </td>
       <td>
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img width="40em" src="https://res.cloudinary.com/dwimrmnww/image/upload/v1660534626/NATIVE_1_apllin.png" />
       </td>
       <td>
         <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />

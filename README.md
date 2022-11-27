@@ -1,5 +1,4 @@
-<h1> 🧑‍💻 Saulo Felipe</h1>
-
+<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=saulo-felipe&data=followers,repositories,stars,commits&theme=darkmode" />
 <h4>Sobre </h4>
 
 <ul>
@@ -23,6 +22,7 @@
 
 <div>
   <h2>🛠 Stacks</h2>
+  
   <table>
     <tr> 
         <td>👑 Principais</td>
@@ -32,30 +32,20 @@
     </tr>
     <tr>
       <td> 
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,html,css,sass,postgres" />
       </td>
       <td>
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
+        <img src="https://skillicons.dev/icons?i=java,c,python,mysql" />    
       </td> 
       <td>
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         <img width="40em" src="https://res.cloudinary.com/dwimrmnww/image/upload/v1660534626/NATIVE_1_apllin.png" />
       </td>
       <td>
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+        <img src="https://skillicons.dev/icons?i=git,mongodb" />
       </td>
     </tr>
   </table>
+ 
 </div>
 <br>
 <h2>📜 Veja alguns dos meus projetos 😁<h2>

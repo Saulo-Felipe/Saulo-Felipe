@@ -21,7 +21,7 @@ StartREADME();
 </ul>
 
 <h2>⚡️ Github Stats</h2>
-<img  width="54%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&include_all_commits=true&count_private=true&show_icons=true&icon_color=f2d200&theme=github_dark&bg_color=13171c&border_color=37383b" /> 
+<img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&include_all_commits=true&count_private=true&show_icons=true&icon_color=f2d200&theme=github_dark&bg_color=13171c&border_color=37383b" /> 
 <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=6"/>  
 
 

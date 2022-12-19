@@ -42,7 +42,7 @@ StartREADME();
   </tr>    
   <tr>
     <th align="left">📚Estudando:</th>
-    <td><img src="https://skillicons.dev/icons?i=react,mongodb" /></td>
+    <td><img width="45px" src="https://res.cloudinary.com/dwimrmnww/image/upload/v1660534626/NATIVE_1_apllin.png"/><img src="https://skillicons.dev/icons?i=mongodb" /></td>
   </tr>    
   <tr>
     <th align="left">⚙️Ferramentas:</th>

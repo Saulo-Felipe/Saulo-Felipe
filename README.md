@@ -15,7 +15,7 @@ StartREADME();
 
 <h2>🚀 Sobre</h2>
 <ul>
-  <li>Programador Web FullStack</li>
+  <li>Dev FullStack</li>
   <li>Estudando Mobile (React-Native)</li>
   <li>Cursando Ciência da Computação 5/8</li>
 </ul>

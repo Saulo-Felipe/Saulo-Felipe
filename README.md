@@ -1,6 +1,6 @@
 <img src="./assets/top.svg" />
 
-<h1 align="center">
+<h1>
   { 🧑‍💻 Saulo Felipe }
 </h1>
 

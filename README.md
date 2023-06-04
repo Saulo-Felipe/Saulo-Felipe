@@ -16,7 +16,7 @@ StartREADME();
 <h2>🚀 Sobre</h2>
 <ul>
   <li>Dev FullStack</li>
-  <li>Cursando Ciência da Computação 5/8</li>
+  <li>Estudante de Ciência da Computação</li>
 </ul>
 
 <h2>⚡️ Github Stats</h2>

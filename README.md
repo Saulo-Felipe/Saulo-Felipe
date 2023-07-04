@@ -1,4 +1,4 @@
-<img src="./assets/top.svg" />
+<!--<img src="./assets/top.svg" />-->
 
 <h1>
   { 🧑‍💻 Saulo Felipe }
@@ -24,7 +24,7 @@ StartREADME();
   <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&include_all_commits=true&count_private=true&show_icons=true&icon_color=f2d200&theme=github_dark&bg_color=13171c&border_color=37383b" /> 
 </a>
 <a href="https://github.com/Saulo-Felipe" align="center">
-  <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=6"/>
+  <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Felipe&layout=compact&theme=github_dark&bg_color=13171c&border_color=37383b&langs_count=8"/>
 </a>
 
 

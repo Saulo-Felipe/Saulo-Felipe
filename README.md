@@ -1,7 +1,7 @@
 <!--<img src="./assets/top.svg" />-->
 
 <h1>
-  { 🧑‍💻 Saulo Felipe }
+  { 💻 Saulo Felipe }
 </h1>
 
 ```javascript

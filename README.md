@@ -19,8 +19,9 @@ StartREADME();
   <li>Estudante de Ciência da Computação</li>
 </ul>
 
-<h2>📌 Habilidades</h2>
+<br />
 
+<h2>📌 Habilidades</h2>
 <table>
   <tr>
     <th align="left">👑 Principais: </th>
@@ -32,6 +33,8 @@ StartREADME();
   </tr>    
 </table>
 
+<br />
+
 <h2>⚡️ Github Stats</h2>
 <a href="https://github.com/Saulo-Felipe" align="center">
   <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Saulo-Felipe&layout=compact&include_all_commits=true&count_private=true&show_icons=true&icon_color=f2d200&theme=github_dark&bg_color=13171c&border_color=37383b" /> 
@@ -41,7 +44,8 @@ StartREADME();
 </a>
 
 <br />
-
+<br />
+<br />
 <p align="center">
   <a href="https://www.linkedin.com/in/saulo-felipe-083657232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=5583991389085&text=Ol%C3%A1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>

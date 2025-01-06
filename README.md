@@ -7,7 +7,7 @@
 <ul>
   <li>Desenvolvedor Full Stack</li>
   <li>Cursando de Ciência da Computação</li>
-  <li>Portfólio: https://saulofelipe.tech</li>
+  <li>Portfólio: https://saulofelipe.com.br</li>
 </ul>
 <br>
 <span>
